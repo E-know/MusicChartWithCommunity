@@ -4,7 +4,7 @@
 멜론/지니/벅스 웹에 나와있는 TOP100 차트를 가져와서 한번에 비교해주고 각 사이트별 앨범 댓글들을 한눈에 보여주는 프로그램
 Take the TOP100 chart from Melon/Genie/Bugs website, compare it at once, and show the album comments on each site at a glance.
 
-##웹 크롤링 사용
+## 웹 크롤링 사용
 <img src="https://bit.ly/3jZxrBD" width="30%">
 
 ## 데이터 저장 방법
