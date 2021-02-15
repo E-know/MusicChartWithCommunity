@@ -14,6 +14,6 @@ Take the TOP100 chart from Melon/Genie/Bugs website, compare it at once, and sho
 #### 팀장
   최인호
 #### 팀원
-박기춘
-오창한
-최낙훈
+박기춘  
+오창한  
+최낙훈  
