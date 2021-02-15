@@ -10,10 +10,10 @@ Take the TOP100 chart from Melon/Genie/Bugs website, compare it at once, and sho
 ## 데이터 저장 방법
 데이터 베이스 사용(MySQL) -> TxT 파일로 저장(시간 부족)
 
-###멤버 구성
-####팀장
+### 멤버 구성
+#### 팀장
   최인호
-####팀원
+#### 팀원
   박기춘
   오창한
   최낙훈
